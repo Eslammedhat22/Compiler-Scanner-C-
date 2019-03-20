@@ -1,0 +1,32 @@
+   read    :    Reserved Words
+   x    :    Identifier
+   ;    :    Special Symbol
+   if    :    Reserved Words
+   0    :    Number
+   <    :    Special Symbol
+   x    :    Identifier
+   then    :    Reserved Words
+   fact    :    Identifier
+   :=    :    Special Symbol
+   1    :    Number
+   ;    :    Special Symbol
+   repeat    :    Reserved Words
+   fact    :    Identifier
+   :=    :    Special Symbol
+   fact    :    Identifier
+   *    :    Special Symbol
+   x    :    Identifier
+   ;    :    Special Symbol
+   x    :    Identifier
+   :=    :    Special Symbol
+   x    :    Identifier
+   -    :    Special Symbol
+   1    :    Number
+   until    :    Reserved Words
+   x    :    Identifier
+   =    :    Special Symbol
+   0    :    Number
+   ;    :    Special Symbol
+   write    :    Reserved Words
+   fact    :    Identifier
+   end    :    Reserved Words
